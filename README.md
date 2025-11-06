@@ -313,8 +313,6 @@ source .venv/bin/activate
 ---
 
 
-<div align="center">
-
 # 🐝SWARM Role & TG bot Set-Up
 
 Instructions to setup a swarm node monitoring telegram bot and earn **The Swarm** Discord role
